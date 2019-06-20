@@ -9,3 +9,14 @@ Systemy kontroli wersji umo¿liwiaj¹:
 przegl¹d historii zmian, wraz z informacj¹ kto i kiedy je wprowadzi³,
 przywrócenie dowolnej wersji pliku lub nawet ca³ego projektu,
 pracê zespo³ow¹, poprzez wykorzystanie zdalnych repozytoriów (w serwisach takich jak Github, Bitbucket czy Gitlab).
+
+Zarz¹dzanie kodem Ÿród³owym
+
+Historia zmian
+GIT umo¿liwia dostêp do historii zapisanych zmian w plikach projektu. W ka¿dej chwili mo¿emy podejrzeæ lub przywróciæ dowoln¹ zmianê.
+
+Rozga³êzianie kodu (branching)
+Jedn¹ z wa¿niejszych funkcji GITa s¹ ga³êzie (branch'e). Umo¿liwiaj¹ rozwój nowych funkcji aplikacji niezale¿nie od siebie.
+
+Przechowywanie kodu w chmurze (remote repository)
+GIT umo¿liwia pracê ze zdalnym repozytorium, które mo¿e pe³niæ rolê kopii zapasowej projektu oraz jest stanowi podstawê pracy zespo³owej.
