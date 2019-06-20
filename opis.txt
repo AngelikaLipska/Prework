@@ -1,0 +1,11 @@
+Systemy kontroli wersji
+
+Czym s¹ systemy kontroli wersji?
+Jest to program zapisuj¹cy zmiany zachodz¹ce w plikach (wersje), dziêki czemu mo¿emy przejrzeæ ich historiê i w razie potrzeby - przywróciæ. 
+Wszytskie te informacje zapisywane s¹ w tzw. repozytorium projektu.
+
+Jaka jest ich rola?
+Systemy kontroli wersji umo¿liwiaj¹:
+przegl¹d historii zmian, wraz z informacj¹ kto i kiedy je wprowadzi³,
+przywrócenie dowolnej wersji pliku lub nawet ca³ego projektu,
+pracê zespo³ow¹, poprzez wykorzystanie zdalnych repozytoriów (w serwisach takich jak Github, Bitbucket czy Gitlab).
