@@ -20,3 +20,9 @@ Jedn¹ z wa¿niejszych funkcji GITa s¹ ga³êzie (branch'e). Umo¿liwiaj¹ rozwój nowy
 
 Przechowywanie kodu w chmurze (remote repository)
 GIT umo¿liwia pracê ze zdalnym repozytorium, które mo¿e pe³niæ rolê kopii zapasowej projektu oraz jest stanowi podstawê pracy zespo³owej.
+
+
+Git clean – usuwa pliki, które nie zosta³y dodane do indeksu Gita
+Git reset – przenosi pliki ze stage do working directory. Pe³ni odwrotn¹ rolê ni¿ git add
+Git rm / git mv – usuwa / przenosi pliki w repozytorium. Dzia³aj¹ tak samo jak rm i mv i jednoczeœnie dodaj¹ zmiany na stage.
+Git checkout <path> - przywraca stan pliku z indeksu gita. W praktyce przywraca wprowadzone zmiany. Mo¿e byæ wykorzystane tylko wtedy, gdy plik istnieje ju¿ w indeksie.
